@@ -1,0 +1,24 @@
+{
+  "name": "financeapp",
+  "version": "1.0.0",
+  "description": "Finance application for tracking incoming and costs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AndjelaMitic/financeApp"
+  },
+  "author": "Andjela Mitic",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.35.2"
+  }
+}
